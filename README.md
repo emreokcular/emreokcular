@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Emre 
+### Hi there 👋  I'm Emre 
 I’m currently learning Data Science at USF <br>
 Check on my [resume](https://www.okcular.com.tr/resources/Emre_Okcular-CV.pdf)
 
