@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Emre 
-### 🌱 I’m currently learning Data Science at USF 
+I’m currently learning Data Science at USF <br>
+Check on my [resume](https://www.okcular.com.tr/resources/Emre_Okcular-CV.pdf)
 
 <!--
 **emreokcular/emreokcular** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
