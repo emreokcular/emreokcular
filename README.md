@@ -1,6 +1,6 @@
-### Hi there 👋  I'm Emre 
+### Hi there 👋  
 
-Here are a few facts about me:
+I'm Emre. Here are a few facts about me:
 
 - 👨‍💻  I’m currently learning Data Science at University of San Francisco.
 - 📍  I'm currently based in San Francisco.
