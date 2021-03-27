@@ -2,12 +2,12 @@
 
 Here are a few facts about me:
 
-- 👨‍💻 I’m currently learning Data Science at University of San Francisco.
-- 📍 I'm currently based in San Francisco.
-- 💻 I'm currently working at Dictionary.com as a Data Science Intern.
-- 💻 I worked as a Software Engineer in Streaming Analytics for more than 3 years.
-- 🎓 I'm a BEng Mathematical Engineering graduate.
-- 🎭 I'm interested in any form of art, especially literature, music and films.
+- 👨‍💻  I’m currently learning Data Science at University of San Francisco.
+- 📍  I'm currently based in San Francisco.
+- 💻  I'm currently working at Dictionary.com as a Data Science Intern.
+- 💻  I worked as a Software Developer in Streaming Analytics for more than 3 years.
+- 🎓  I'm a BEng Mathematical Engineering graduate.
+- 🎭  I'm interested in any form of art, especially literature, music and films.
 
 Check on my [personal web site](https://www.okcular.com.tr) !
 
