@@ -3,11 +3,12 @@
 I'm Emre. Here are a few facts about me:
 
 - 👨‍💻  I’m currently learning Data Science at University of San Francisco.
-- 📍  I'm currently based in San Francisco.
+- 📍  I'm based in San Francisco.
 - 💻  I'm currently working at Dictionary.com as a Data Science Intern.
-- 💻  I worked as a Software Developer in Streaming Analytics for more than 3 years.
+- 💻  I worked as a Software Developer in real-time streaming analytics for more than 3 years.
 - 🎓  I have a Bachelor's Degree in Computational and Applied Mathematics.
 - 🎭  I'm interested in any form of art, especially literature, music and films.
+- ⚡  Fun fact: I am still undefeated at table soccer !
 
 Check on my [personal web site](https://www.okcular.com.tr) !
 
