@@ -8,7 +8,7 @@ I'm Emre. Here are a few facts about me:
 - 💻  I worked as a Software Engineer in real-time streaming analytics for more than 3 years.
 - 🎓  I have a Bachelor's Degree in Computational and Applied Mathematics.
 - 🎭  I'm interested in any form of art.
-- ⚡  Fun fact: I am still undefeated at table soccer !
+- ⚡  Fun fact: I am still undefeated at foosball !
 
 Check on my [personal web site](https://www.okcular.com.tr) !
 
